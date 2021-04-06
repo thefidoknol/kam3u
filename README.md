@@ -3,7 +3,10 @@
 #EXTM3U
 
 #EXTINF:-1,GUA-TN23
-https://gt-chapintv-canal23-live.ned.media/chapintv/smil:canal23.smil/chunklist_b850000.m3u8?iut=eyJwYXJhbXMiOnsiZXhwIjoxNjE3NDA1NTk4LCJzZXNzaW9uIjoiMTkwLjE0OC41My41NSIsIndoaXRlbGlzdCI6WyIxOTAuMTQ4LjUzLjU1Il19LCJzaWduYXR1cmUiOiI3MTY2MDQ2Y2VmYzhhZWQxZmE5ZGFhNGFkOWQwMTdmM2NhODY5OGJiIn0%3D
+https://gt-chapintv-canal23-live.ned.media/chapintv/smil:canal23.smil/chunklist_b1200000.m3u8?iut=eyJwYXJhbXMiOnsiZXhwIjoxNjE3NzYzMjgwLCJzZXNzaW9uIjoiMTkwLjEwNi4xOTUuMjQ0Iiwid2hpdGVsaXN0IjpbIjE5MC4xMDYuMTk1LjI0NCJdfSwic2lnbmF0dXJlIjoiNzYwOWRlN2RhYTQ1MjVlNzAzMmNkZGU2NjY4OTBhYzlmMmJmNmM5YyJ9
+
+#EXTINF: -1, AZTECA UNO MEX
+https://ep95juyqjpyk764.ezcdn462.net:8443/hls/ekqf2gz.m3u8?s=tgmN6AneZmrRsJaryF9P5w&e=1617698240
 
 #EXTINF:-1,TIGO Guatemala
 http://andinotv.live:8080/zeNcnKYHN2/Awup4Qj6K9/96486.ts
