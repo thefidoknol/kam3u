@@ -3,7 +3,7 @@
 #EXTM3U
 
 #EXTINF:-1,GUA-TN23
-https://gt-chapintv-canal23-live.ned.media/chapintv/smil:canal23.smil/chunklist_b1200000.m3u8?iut=eyJwYXJhbXMiOnsiZXhwIjoxNjE3NzYzMjgwLCJzZXNzaW9uIjoiMTkwLjEwNi4xOTUuMjQ0Iiwid2hpdGVsaXN0IjpbIjE5MC4xMDYuMTk1LjI0NCJdfSwic2lnbmF0dXJlIjoiNzYwOWRlN2RhYTQ1MjVlNzAzMmNkZGU2NjY4OTBhYzlmMmJmNmM5YyJ9
+https://gt-chapintv-canal23-live.ned.media/chapintv/smil:canal23.smil/chunklist_b1200000.m3u8?iut=eyJwYXJhbXMiOnsiZXhwIjoxNjE3ODA3MTEyLCJzZXNzaW9uIjoiMTkwLjEwNi4yMDEuMjEyIiwid2hpdGVsaXN0IjpbIjE5MC4xMDYuMjAxLjIxMiJdfSwic2lnbmF0dXJlIjoiYjE2MjU3MThkMmE4MjBjMjU0ODQwMzkzNDMzMjc3NjAyZTNmN2IxNCJ9
 
 #EXTINF: -1, AZTECA UNO MEX
 https://ep95juyqjpyk764.ezcdn462.net:8443/hls/ekqf2gz.m3u8?s=tgmN6AneZmrRsJaryF9P5w&e=1617698240
@@ -34,7 +34,10 @@ http://andinotv.live:8000/zeNcnKYHN2/Awup4Qj6K9/52131
 http://andinotv.live:8000/zeNcnKYHN2/Awup4Qj6K9/52134
 
 #EXTINF:-1, ACTIVIDAD FUTBOL
-https://6q4cp33931zknrh.ezcdn462.net:8443/hls/659emi1n06e.m3u8?s=z-loW-q2mCBIMVmtK_GRmw&e=1616886731
+https://xxu9stabazy3thh7.ezcdn483.net:8443/hls/5oaf5ei2lcv9.m3u8?s=9Fey1tOy4S-DmrgB-iCipg&e=1617742585
 
 #EXTINF:-1, el chavo del 8
 https://videostreaming.cloudserverlatam.com/chavotv/chavotv/chunklist_w1676608551.m3u8
+
+#EXTINF: -1, FUTBOL
+https://xxu9stabazy3thh7.ezcdn483.net:8443/hls/5oaf5ei2lcv9.m3u8?s=IAY7b6bVKZP0y_VHt0ZKWw&e=1617742795
