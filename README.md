@@ -34,10 +34,10 @@ http://andinotv.live:8000/zeNcnKYHN2/Awup4Qj6K9/52131
 http://andinotv.live:8000/zeNcnKYHN2/Awup4Qj6K9/52134
 
 #EXTINF:-1, ACTIVIDAD FUTBOL
-https://xxu9stabazy3thh7.ezcdn483.net:8443/hls/5oaf5ei2lcv9.m3u8?s=9Fey1tOy4S-DmrgB-iCipg&e=1617742585
+https://e10.espncdn.shop/ingestnb4s/espn2_sur/f.m3u8
 
 #EXTINF:-1, el chavo del 8
 https://videostreaming.cloudserverlatam.com/chavotv/chavotv/chunklist_w1676608551.m3u8
 
 #EXTINF: -1, FUTBOL
-https://xxu9stabazy3thh7.ezcdn483.net:8443/hls/5oaf5ei2lcv9.m3u8?s=IAY7b6bVKZP0y_VHt0ZKWw&e=1617742795
+https://e10.espncdn.shop/ingestnb4s/sportsbay/master.m3u8
