@@ -1,9 +1,9 @@
 #EXTM3U
 
-#EXTINF:-1 , tvg-name="TN23"  tvg-logo="https://emisorasgt.com/i/tv/tn23.webp"
+#EXTINF:-1 , tvg-name="TN23" tvg-logo="https://emisorasgt.com/i/tv/tn23.webp"
 https://d1dqr580c2izza.cloudfront.net/hls/canal23_480.m3u8
 
-#EXTINF:-1 , tvg-name="canal 3"  tvg-logo="https://emisorasgt.com/i/tv/Canal-3.webp"
+#EXTINF:-1 , tvg-name="canal 3" tvg-logo="https://emisorasgt.com/i/tv/Canal-3.webp"
 https://d1dqr580c2izza.cloudfront.net/hls/canal3.m3u8
 
 #EXTINF:-1 , tvg-name="canl 7" tvg-logo="https://emisorasgt.com/i/tv/canal-7.webp"
